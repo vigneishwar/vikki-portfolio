@@ -1,0 +1,22 @@
+{
+  "name": "vikki-portfolio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigneishwar/vikki-portfolio.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vigneishwar/vikki-portfolio/issues"
+  },
+  "homepage": "https://github.com/vigneishwar/vikki-portfolio#readme",
+  "dependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
